@@ -548,11 +548,17 @@
     "@polymer/iron-overlay-behavior" "^3.0.0-pre.25"
     "@polymer/polymer" "^3.0.0"
 
-"@polymer/polymer@^3.0.0", "@polymer/polymer@^3.0.0-pre.1":
+"@polymer/polymer@^3.0.0":
   version "3.0.5"
   resolved "https://registry.yarnpkg.com/@polymer/polymer/-/polymer-3.0.5.tgz#eaa42e70df7de818b5e1839452c82a5f83e39929"
   dependencies:
     "@webcomponents/shadycss" "^1.2.0"
+
+"@polymer/polymer@^3.1.0":
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/@polymer/polymer/-/polymer-3.1.0.tgz#3e1b7447a1e350fd654e1823def655d0f0828a70"
+  dependencies:
+    "@webcomponents/shadycss" "^1.5.2"
 
 "@types/estree@0.0.39":
   version "0.0.39"
@@ -579,6 +585,10 @@
 "@webcomponents/shadycss@^1.2.0":
   version "1.5.0"
   resolved "https://registry.yarnpkg.com/@webcomponents/shadycss/-/shadycss-1.5.0.tgz#109e596027eed04bc5032414c9f094e1aeb9260e"
+
+"@webcomponents/shadycss@^1.5.2":
+  version "1.5.2"
+  resolved "https://registry.yarnpkg.com/@webcomponents/shadycss/-/shadycss-1.5.2.tgz#ad72f43000c39ba4ac61e625131f34f4b7cfe55f"
 
 "@webcomponents/webcomponentsjs@^2.0.0":
   version "2.1.1"
